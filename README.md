@@ -2,6 +2,9 @@
 
 ## What i learn 🤔
 - React 
+- Use Tachyons for styling
+- Implement [react-tilt](https://www.npmjs.com/package/react-tilt)
+- Implement [particle.js](https://www.npmjs.com/package/react-particles-js)
 
 ## Acknowledgments 🎁
 
