@@ -19,6 +19,8 @@ const Signin = ({ onRouteChange, loadUser }) => {
         if (user.id) {
           loadUser(user);
           onRouteChange('home');
+        } else {
+          onRouteChange('register', true);
         }
       })
     };
